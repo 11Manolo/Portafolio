@@ -32,12 +32,8 @@ El diseño es **minimalista** y utiliza:
 
 ---
 
-## 📷 Vista previa
-![Portafolio Preview](imagenes/fondo.jpg)
-
----
 
 ## 📂 Instalación y uso
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/portafolio.git
+   git clone https://github.com/11Manolo/Portafolio.git
